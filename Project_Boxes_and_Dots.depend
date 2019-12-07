@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575726500 source:c:\programming\project_boxes_and_dots\dots_and_boxes.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
